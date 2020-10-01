@@ -1,1 +1,3 @@
 HACKTOBERFEST_2020
+This is a folder to work on a hactober fest project, this consists of two projects one is a Flutter Basic Quiz App 
+and the other one is a website used to compare all the top 100 universities in Hyderabad
